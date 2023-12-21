@@ -92,7 +92,7 @@ plt.tight_layout()
 st.pyplot(fig)
 
 st.subheader('Trend Penjualan Bulanan')
-st.write('Grafik ini menampilkan tren jumlah penjualan bulanan dari Januari 2017 hingga Desember 2018.')
+st.write('Grafik ini menampilkan tren jumlah penjualan.')
 
 # Plot 2: Tren Bulanan Jumlah Penjualan
 fig2, ax2 = plt.subplots(figsize=(10, 6))
