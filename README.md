@@ -26,7 +26,7 @@ pip install numpy pandas matplotlib seaborn streamlit babel
 streamlit run dashboard.py
 ```
 
-https://data-project.streamlit.app/
+[[https://data-project.streamlit.app/](https://nazarudin-ecommerce-dashboard.streamlit.app/)](https://nazarudin-ecommerce-dashboard.streamlit.app/)
 
 ![Alt text](Dashboard.png)
 ![Alt text](Dashboard-2.png)
