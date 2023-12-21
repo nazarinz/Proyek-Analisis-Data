@@ -10,3 +10,23 @@ Repository Proyek Analisis Data ini adalah hasil pembelajaran saya pada kelas di
 * Data Visualization
 * Pengembangan Dashboard
 
+# Brazilian E-Commerce Dashboard ✨
+
+## Setup environment
+
+```
+conda create --name main-ds python=3.11.3
+conda activate main-ds
+pip install numpy pandas matplotlib seaborn streamlit babel
+```
+
+## Run streamlit app
+
+```
+streamlit run dashboard.py
+```
+
+https://data-project.streamlit.app/
+
+![Alt text](Dashboard.png)
+![Alt text](Dashboard-2.png)
