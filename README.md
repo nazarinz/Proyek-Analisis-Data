@@ -30,3 +30,4 @@ https://nazarudin-ecommerce-dashboard.streamlit.app/
 
 ![Alt text](Dashboard.png)
 ![Alt text](Dashboard-2.png)
+![Alt text](Dashboard-3.png)
